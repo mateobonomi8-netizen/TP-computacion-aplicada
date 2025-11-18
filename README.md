@@ -156,7 +156,8 @@ Universidad de Palermo – 2025
 ---
 
 ## 8. Diagrama topológico
-![Diagrama Topológico](./diagrama_topologico.jpg)
+![Diagrama_topologico](https://github.com/user-attachments/assets/b1444a5c-90f5-4ee4-a4d3-659ecd9175db)
+
 
 ---
 
